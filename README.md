@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/haidang190604" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/h2danng_/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
   <a href="mailto:dangd408@gmail.com" target="top">
