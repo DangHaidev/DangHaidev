@@ -29,10 +29,10 @@
 | ![github contribution grid pacman animation](https://raw.githubusercontent.com/danghaidev/danghaidev/output/pacman-contribution-graph.svg) |
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danghaidev/danghaidev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danghaidev/danghaidev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danghaidev/danghaidev/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DangHaidev&theme=github-dark-dimmed&custom_title=Haidang%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
